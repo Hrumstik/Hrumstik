@@ -26,15 +26,24 @@ I am a Junior Frontend Web Developer. Currently, I live in Poland.
 </div>
 
 ### :computer: Projects :
+
 <div>
-<h2>TaskMaster</h2> I have developed a web application for task management. The application features include:
-  - Creating tasks with a specified due date and priority.
-  - Deleting tasks.
-  - Sorting tasks by date or priority.
-  - Searching tasks.
-  - Switching between light and dark themes.
-  - User registration and authentication.
-  
-  The project utilizes technologies such as React, Redux Toolkit, TypeScript, and MUI components. Tasks are stored using a JSON server.
-  </div>
+  <h2>TaskMaster</h2>
+  <ul>
+    <li>Developed a web application for task management.</li>
+    <li>Key features include:
+      <ul>
+        <li>Creating tasks with a specified due date and priority.</li>
+        <li>Deleting tasks.</li>
+        <li>Sorting tasks by date or priority.</li>
+        <li>Searching tasks.</li>
+        <li>Switching between light and dark themes.</li>
+        <li>User registration and authentication.</li>
+      </ul>
+    </li>
+    <li>The project utilizes technologies such as React, Redux Toolkit, TypeScript, and MUI components.</li>
+    <li>Tasks are stored using a JSON server.</li>
+  </ul>
+</div>
+
 
