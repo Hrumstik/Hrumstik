@@ -27,7 +27,7 @@ I am a Junior Frontend Web Developer. Currently, I live in Poland.
 
 ### :computer: Projects :
 <div>
-<h1>TaskMaster</h1>: I have developed a web application for task management. The application features include:
+<h2>TaskMaster</h2> I have developed a web application for task management. The application features include:
   - Creating tasks with a specified due date and priority.
   - Deleting tasks.
   - Sorting tasks by date or priority.
