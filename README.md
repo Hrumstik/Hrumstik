@@ -14,9 +14,6 @@ I am a Junior Frontend Web Developer. Currently, I live in Poland.
 <img src="https://komarev.com/ghpvc/?username=hrumstik&style=flat-square&color=blue" alt=""/>
 
 
-
-
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
