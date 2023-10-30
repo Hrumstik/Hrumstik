@@ -25,4 +25,14 @@ I am a Junior Frontend Web Developer. Currently, I live in Poland.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+### :computer: Projects :
+- **TaskMaster**: I have developed a web application for task management. The application features include:
+  - Creating tasks with a specified due date and priority.
+  - Deleting tasks.
+  - Sorting tasks by date or priority.
+  - Searching tasks.
+  - Switching between light and dark themes.
+  - User registration and authentication.
+  
+  The project utilizes technologies such as React, Redux Toolkit, TypeScript, and MUI components. Tasks are stored using a JSON server.
 
