@@ -26,6 +26,7 @@ I am a Junior Frontend Web Developer. Currently, I live in Poland.
 </div>
 
 ### :computer: Projects :
+<div>
 - **TaskMaster**: I have developed a web application for task management. The application features include:
   - Creating tasks with a specified due date and priority.
   - Deleting tasks.
@@ -35,4 +36,5 @@ I am a Junior Frontend Web Developer. Currently, I live in Poland.
   - User registration and authentication.
   
   The project utilizes technologies such as React, Redux Toolkit, TypeScript, and MUI components. Tasks are stored using a JSON server.
+  </div>
 
