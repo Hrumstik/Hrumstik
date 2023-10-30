@@ -28,7 +28,7 @@ I am a Junior Frontend Web Developer. Currently, I live in Poland.
 ### :computer: Projects :
 
 <div>
-:rocket: TaskMaster - Web Application for Task Management
+:rocket: **TaskMaster - Web Application for Task Management**
   <ul>
     <li>Developed a web application for task management.</li>
     <li>Key features include:
