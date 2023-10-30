@@ -1,24 +1,29 @@
 ### Hi, everyone! 👋
 
-<div id="header" align="center">
+<div id="header" align="center" style="margin-bottom: 20px;">
   <img src="https://media.giphy.com/media/3Fox4sRv6aRS9bCggt/giphy-downsized-large.gif" width="300">
 </div>
 
 ### :man_technologist: About Me :
+<div style="margin-bottom: 20px;">
 I am a Junior Frontend Web Developer. Currently, I live in Poland.
-<div id="badges">
+</div>
+
+<div id="badges" style="margin-bottom: 20px;">
   <a href="https://www.linkedin.com/in/alexander-gurinovich-341330296">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=hrumstik&style=flat-square&color=blue" alt=""/>
 
+<div style="margin-bottom: 20px;">
+<img src="https://komarev.com/ghpvc/?username=hrumstik&style=flat-square&color=blue" alt=""/>
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<div style="margin-bottom: 20px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -27,8 +32,7 @@ I am a Junior Frontend Web Developer. Currently, I live in Poland.
 </div>
 
 ### :computer: Projects :
-
-<div>
+<div style="margin-bottom: 20px;">
 <h4>:rocket: TaskMaster - Web Application for Task Management</h4>
   <ul>
     <li>Developed a web application for task management.</li>
@@ -46,5 +50,3 @@ I am a Junior Frontend Web Developer. Currently, I live in Poland.
     <li>Tasks are stored using a JSON server.</li>
   </ul>
 </div>
-
-
