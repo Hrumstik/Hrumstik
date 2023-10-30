@@ -1,3 +1,5 @@
+### Hi, everyone! 👋
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3Fox4sRv6aRS9bCggt/giphy-downsized-large.gif" width="300">
 </div>
