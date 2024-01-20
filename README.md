@@ -8,9 +8,8 @@
 <div style="margin-bottom: 20px;">
 I am Frontend Web Developer. Currently, I am working at Auto-pilot and engaged in developing a web application for a taxi CRM. 
 I am looking for an opportunity to expand my knowledge and skills in the field of web development.
-  <br/>
 </div>
-
+<br/>
 <div id="badges" style="margin-bottom: 20px;">
   <a href="https://www.linkedin.com/in/alexander-gurinovich-341330296">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
