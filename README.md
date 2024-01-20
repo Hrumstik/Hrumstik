@@ -52,7 +52,7 @@ I am Frontend Web Developer. Currently, I live in Poland.
     <li>The project utilizes technologies such as React, Redux Toolkit, TypeScript, and MUI components.</li>
     <li>Tasks are stored using a JSON server.</li>
   </ul>
-  ## Deployment
+<h4>Deployment</h4>
 The project has been deployed using Vercel and is accessible via the following link - https://task-master-six-gamma.vercel.app/login.
 From time to time, I revisit this project and improve the code that I wrote during my React learning journey.
 </div>
