@@ -6,7 +6,7 @@
 
 ### :man_technologist: About Me :
 <div style="margin-bottom: 20px;">
-I am a Junior Frontend Web Developer. Currently, I live in Poland.
+I am Frontend Web Developer. Currently, I live in Poland.
 </div>
 
 <div id="badges" style="margin-bottom: 20px;">
