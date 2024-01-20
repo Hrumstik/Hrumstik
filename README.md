@@ -48,9 +48,10 @@ I am looking for an opportunity to expand my knowledge and skills in the field o
         <li>Searching tasks.</li>
         <li>Switching between light and dark themes.</li>
         <li>User registration and authentication.</li>
+        <li>Assigning a task to a registered user</li>
       </ul>
     </li>
-    <li>The project utilizes technologies such as React, Redux Toolkit, TypeScript, and MUI components.</li>
+    <li>The project utilizes technologies such as React, Redux Toolkit, TypeScript, MUI components, and Firebase.</li>
     <li>Tasks are stored using a JSON server.</li>
   </ul>
 <h4>Deployment</h4>
