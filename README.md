@@ -6,7 +6,7 @@
 
 ### :man_technologist: About Me :
 <div style="margin-bottom: 20px;">
-I am Frontend Web Developer. Currently, I am working at Auto-pilot and engaged in developing a web application for a taxi CRM. 
+I am Frontend Web Developer. 
 I am looking for an opportunity to expand my knowledge and skills in the field of web development.
 </div>
 <br/>
