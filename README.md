@@ -35,26 +35,5 @@ I am looking for an opportunity to expand my knowledge and skills in the field o
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" **alt="express" width="50" height="50"/>
 </div>
 
-### :computer: Projects :
-<div style="margin-bottom: 20px;">
-<h4>:rocket: TaskMaster - Web Application for Task Management</h4>
-  <ul>
-    <li>Developed a web application for task management.</li>
-    <li>Key features include:
-      <ul>
-        <li>Creating tasks with a specified due date and priority.</li>
-        <li>Deleting tasks.</li>
-        <li>Sorting tasks by date or priority.</li>
-        <li>Searching tasks.</li>
-        <li>Switching between light and dark themes.</li>
-        <li>User registration and authentication.</li>
-        <li>Assigning a task to a registered user</li>
-      </ul>
-    </li>
-    <li>The project utilizes technologies such as React, Redux Toolkit, TypeScript, MUI components, and Firebase.</li>
-    <li>Tasks are stored using a JSON server.</li>
-  </ul>
-<h4>Deployment</h4>
-The project has been deployed using Vercel and is accessible via the following link - https://task-master-six-gamma.vercel.app/login.
-From time to time, I revisit this project and improve the code that I wrote during my React learning journey.
-</div>
+
+
